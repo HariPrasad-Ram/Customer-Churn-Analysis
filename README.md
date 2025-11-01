@@ -104,7 +104,8 @@ Built an **interactive dashboard** connecting SQL/Python-cleaned data to Power B
 * Monthly Charge vs Tenure Analysis
 * Churn Category Breakdown
 
-📸 *Preview:* `Screenshot 2025-11-01 110833.png`
+📸 *Preview:* <img width="1174" height="663" alt="Screenshot 2025-11-01 113114" src="https://github.com/user-attachments/assets/2d2b8e25-5015-4b1b-bec6-d9b6ae1f6f53" />
+
 
 ---
 
